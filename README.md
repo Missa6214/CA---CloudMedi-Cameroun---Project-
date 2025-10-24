@@ -292,7 +292,7 @@ Il faut former le personnel médical et administratif à l’utilisation du syst
 Il faut créer une cellule de supervision nationale CloudMedi, chargée de la maintenance, du suivi et de la coordination entre hôpitaux.
 Il faut établir un calendrier de déploiement progressif, en commençant par des hôpitaux pilotes avant d’étendre le projet à tout le pays.
 Il faut également assurer une communication constante avec les patients et les communautés pour expliquer les avantages du système.
-5.4 Conclusion générale
+## 5.4 Conclusion générale
 Le projet CloudMedi Cameroun est un projet innovant qui  illustre comment la technologie, lorsqu’elle est bien utilisée, peut devenir un levier de développement social et économique. En s’appuyant sur le cloud computing et les réseaux WAN(Wide Area Network) , il offre une réponse concrète à des problèmes réels rencontrés par la population : la perte des carnets médicaux, le manque de coordination entre hôpitaux, la  lenteur administrative et l'absence de suivi médical efficace.
 Les bénéfices attendus de ce projet sont multiples :
 Une amélioration de la qualité et de la continuité des soins,
